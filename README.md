@@ -4,8 +4,8 @@
 
 <div>
 <a href="https://github.com/natacicero">
-<img width="400" height="165" src="https://github-readme-stats.vercel.app/api?username=natacicero&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-<img width="400" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natacicero&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+<img width="450" height="165" src="https://github-readme-stats.vercel.app/api?username=natacicero&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<img width="450" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natacicero&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 
 <div style="display: inline-block"><br>
